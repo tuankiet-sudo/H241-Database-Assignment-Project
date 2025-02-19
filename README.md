@@ -1,5 +1,7 @@
 # Demo Application Setup Guide
 
+You can view our presentation on the demo web application here: [Demo Web Application Presentation](https://drive.google.com/drive/folders/13WhIT6acXj8b1hj6SYNg7VZWoFyNdMa7?usp=drive_link)
+
 This guide provides instructions to set up and run the multimedia application.
 
 ## Steps to Run the Demo Application
